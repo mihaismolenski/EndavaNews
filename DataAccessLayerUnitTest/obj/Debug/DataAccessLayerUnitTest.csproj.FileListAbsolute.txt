@@ -1,0 +1,15 @@
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\DataAccessLayerUnitTest.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\DataAccessLayerUnitTest.pdb
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\DataAccessLayer.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\Iesi.Collections.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\NHibernate.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\DataAccessLayer.pdb
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.pdb
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.xml
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\Iesi.Collections.xml
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\NHibernate.xml
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.csprojResolveAssemblyReference.cache
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.dll
+D:\Proiect\TheDotNets\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.pdb

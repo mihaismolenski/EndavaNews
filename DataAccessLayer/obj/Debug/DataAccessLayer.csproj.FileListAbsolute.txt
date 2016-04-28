@@ -1,0 +1,12 @@
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\FluentNHibernate.dll
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\NHibernate.dll
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\FluentNHibernate.pdb
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\FluentNHibernate.xml
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\Iesi.Collections.xml
+D:\Proiect\TheDotNets\DataAccessLayer\bin\Debug\NHibernate.xml
+D:\Proiect\TheDotNets\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Proiect\TheDotNets\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Proiect\TheDotNets\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

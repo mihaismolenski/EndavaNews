@@ -1,0 +1,8 @@
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayerUnitTest.dll
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayerUnitTest.pdb
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayer.dll
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayer.pdb
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\obj\Debug\BusinessLogicLayerUnitTest.csprojResolveAssemblyReference.cache
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\obj\Debug\BusinessLogicLayerUnitTest.dll
+D:\Proiect\TheDotNets\BusinessLogicLayerUnitTest\obj\Debug\BusinessLogicLayerUnitTest.pdb

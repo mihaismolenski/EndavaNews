@@ -1,0 +1,14 @@
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\NHibernate.dll
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\FluentNHibernate.dll
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\Iesi.Collections.dll
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\NHibernate.xml
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\FluentNHibernate.pdb
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\FluentNHibernate.xml
+D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\Iesi.Collections.xml
+D:\Proiect\TheDotNets\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Proiect\TheDotNets\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Proiect\TheDotNets\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

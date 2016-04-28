@@ -1,0 +1,15 @@
+D:\Proiect\TheDotNets\testdb\bin\Debug\testdb.exe.config
+D:\Proiect\TheDotNets\testdb\bin\Debug\testdb.exe
+D:\Proiect\TheDotNets\testdb\bin\Debug\testdb.pdb
+D:\Proiect\TheDotNets\testdb\bin\Debug\DataAccessLayer.dll
+D:\Proiect\TheDotNets\testdb\bin\Debug\NHibernate.dll
+D:\Proiect\TheDotNets\testdb\bin\Debug\FluentNHibernate.dll
+D:\Proiect\TheDotNets\testdb\bin\Debug\Iesi.Collections.dll
+D:\Proiect\TheDotNets\testdb\bin\Debug\DataAccessLayer.pdb
+D:\Proiect\TheDotNets\testdb\bin\Debug\NHibernate.xml
+D:\Proiect\TheDotNets\testdb\bin\Debug\FluentNHibernate.pdb
+D:\Proiect\TheDotNets\testdb\bin\Debug\FluentNHibernate.xml
+D:\Proiect\TheDotNets\testdb\bin\Debug\Iesi.Collections.xml
+D:\Proiect\TheDotNets\testdb\obj\Debug\testdb.csprojResolveAssemblyReference.cache
+D:\Proiect\TheDotNets\testdb\obj\Debug\testdb.exe
+D:\Proiect\TheDotNets\testdb\obj\Debug\testdb.pdb
