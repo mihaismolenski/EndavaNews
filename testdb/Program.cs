@@ -74,6 +74,8 @@ namespace testdb
             db.Update(art);
 
             //Comentariu
+            //Cristian
+            //Hai odata
         }
     }
 }
