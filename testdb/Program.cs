@@ -72,6 +72,8 @@ namespace testdb
             var art = db.Read<Article>(1);
             art.Data = "ceva nou";
             db.Update(art);
+
+            //Comentariu
         }
     }
 }
