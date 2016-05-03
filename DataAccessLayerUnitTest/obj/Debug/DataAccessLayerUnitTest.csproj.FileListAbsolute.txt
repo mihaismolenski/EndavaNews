@@ -13,3 +13,18 @@ D:\Proiect\TheDotNets\DataAccessLayerUnitTest\bin\Debug\NHibernate.xml
 D:\Proiect\TheDotNets\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.csprojResolveAssemblyReference.cache
 D:\Proiect\TheDotNets\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.dll
 D:\Proiect\TheDotNets\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.pdb
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayerUnitTest.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayerUnitTest.pdb
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayer.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\Iesi.Collections.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\NHibernate.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayer.pdb
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.pdb
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.xml
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\Iesi.Collections.xml
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\bin\Debug\NHibernate.xml
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.csprojResolveAssemblyReference.cache
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.dll
+D:\ENews Endava Project\EndavaNews\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.pdb

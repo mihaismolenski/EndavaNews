@@ -12,3 +12,17 @@ D:\Proiect\TheDotNets\BusinessLogicLayer\bin\Debug\Iesi.Collections.xml
 D:\Proiect\TheDotNets\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 D:\Proiect\TheDotNets\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 D:\Proiect\TheDotNets\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\NHibernate.dll
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\FluentNHibernate.dll
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\Iesi.Collections.dll
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\NHibernate.xml
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\FluentNHibernate.pdb
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\FluentNHibernate.xml
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\bin\Debug\Iesi.Collections.xml
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\ENews Endava Project\EndavaNews\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

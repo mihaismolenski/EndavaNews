@@ -28,3 +28,18 @@ D:\Proiect\EndavaNews\EndavaNews\testdb\bin\Debug\FluentNHibernate.pdb
 D:\Proiect\EndavaNews\EndavaNews\testdb\bin\Debug\FluentNHibernate.xml
 D:\Proiect\EndavaNews\EndavaNews\testdb\bin\Debug\Iesi.Collections.xml
 D:\Proiect\EndavaNews\EndavaNews\testdb\obj\Debug\testdb.csprojResolveAssemblyReference.cache
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\testdb.exe.config
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\testdb.exe
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\testdb.pdb
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\DataAccessLayer.dll
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\NHibernate.dll
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\FluentNHibernate.dll
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\Iesi.Collections.dll
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\DataAccessLayer.pdb
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\NHibernate.xml
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\FluentNHibernate.pdb
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\FluentNHibernate.xml
+D:\ENews Endava Project\EndavaNews\testdb\bin\Debug\Iesi.Collections.xml
+D:\ENews Endava Project\EndavaNews\testdb\obj\Debug\testdb.csprojResolveAssemblyReference.cache
+D:\ENews Endava Project\EndavaNews\testdb\obj\Debug\testdb.exe
+D:\ENews Endava Project\EndavaNews\testdb\obj\Debug\testdb.pdb
