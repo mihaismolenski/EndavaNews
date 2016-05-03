@@ -168,26 +168,30 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE TABLE [dbo].[Playlist](
-	[Id] [int] IDENTITY(1,1) NOT NULL,
-	[Priority] [int] NULL,
-	[ArticleId] [int] NULL,
-PRIMARY KEY CLUSTERED 
+GO
+DROP TABLE Playlist
+GO
+CREATE TABLE Playlist
 (
-	[Id] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
+Id int NOT NULL IDENTITY(1,1),
+Name nvarchar(50),
+PRIMARY KEY (Id)
+)
 
+GO 
+CREATE TABLE ArticlePlaylist
+(
+Id int NOT NULL IDENTITY(1,1),
+PlaylistId int,
+ArticleId int,
+"Priority" int,
+PRIMARY KEY (Id),
+CONSTRAINT ArticleContraint FOREIGN KEY (ArticleId)
+REFERENCES Article(Id),
+CONSTRAINT PlaylistConstraint FOREIGN KEY (PlaylistId)
+REFERENCES Playlist(Id),
+)
 GO
-
-ALTER TABLE [dbo].[Playlist]  WITH CHECK ADD  CONSTRAINT [Fk_Playlist] FOREIGN KEY([ArticleId])
-REFERENCES [dbo].[Article] ([Id])
-GO
-
-ALTER TABLE [dbo].[Playlist] CHECK CONSTRAINT [Fk_Playlist]
-GO
-
-
 
 
 

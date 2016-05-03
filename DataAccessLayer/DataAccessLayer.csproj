@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Convensions\CustomManyToManyTableNameConvention.cs" />
     <Compile Include="Convensions\ForeignKeyNameConvention.cs" />
     <Compile Include="EntitiesDao\ArticleCategoryDao.cs" />
     <Compile Include="EntitiesDao\ArticleDao.cs" />
@@ -79,7 +80,9 @@
     <Compile Include="NHibernateConfig.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="DbScripts\script.sql" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>

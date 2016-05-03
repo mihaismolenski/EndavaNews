@@ -40,7 +40,7 @@ namespace DataAccessLayer
                 .Database(MsSqlConfiguration.MsSql2012.ConnectionString(ConnectionString))
                 .Mappings(m => m.FluentMappings
                     .AddFromAssemblyOf<Article>()
-                    .Conventions.Add(new ForeignKeyNameConvention())
+                    .Conventions.Add(new ForeignKeyNameConvention(), new CustomManyToManyTableNameConvention())
                 )
                 .BuildSessionFactory();
         }

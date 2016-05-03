@@ -73,6 +73,11 @@ namespace testdb
             art.Data = "ceva nou";
             db.Update(art);
 
+            var playlist = db.Read<Playlist>(1);
+            playlist.Articles.Add(art);
+            db.Update(playlist);
+
+            
             //Comentariu
             //Cristian
             //Hai odata

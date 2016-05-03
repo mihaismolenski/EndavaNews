@@ -13,8 +13,8 @@ namespace DataAccessLayer.EntitiesMapping
         public PlaylistMap()
         {
             Id(x => x.Id);
-            Map(x => x.Priority);
-            HasMany(x => x.Articles);
+            Map(x => x.Name);
+            HasManyToMany(x => x.Articles).Cascade.All();
         }
     }
 }

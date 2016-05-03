@@ -25,6 +25,7 @@ namespace DataAccessLayer.EntitiesMapping
             References(x => x.ArticleCategory);
             References(x => x.LastModifiedBy, "LastModifiedBy");
             References(x => x.ArticleStatus);
+            HasManyToMany(x=>x.Playlists).Cascade.All().Inverse();
         }
     }
 }

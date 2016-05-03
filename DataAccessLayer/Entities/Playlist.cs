@@ -10,7 +10,7 @@ namespace DataAccessLayer.Entities
     {
         public virtual int Id { get; set; }
 
-        public virtual int Priority { get; set; }
+        public virtual string Name { get; set; }
 
         public virtual IList<Article> Articles { get; set; }
 

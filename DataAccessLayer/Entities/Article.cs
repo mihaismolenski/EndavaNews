@@ -35,6 +35,8 @@ namespace DataAccessLayer.Entities
 
         public virtual ArticleStatus ArticleStatus { get; set; }
 
+        public virtual IList<Playlist> Playlists { get; set; } 
+
         public Article()
         {
             User = new User();
@@ -42,6 +44,7 @@ namespace DataAccessLayer.Entities
             ArticleCategory = new ArticleCategory();
             ContentType = new ContentType();
             ArticleStatus = new ArticleStatus();
+            Playlists = new List<Playlist>();
         }
     }
 }
