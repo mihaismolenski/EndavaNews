@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using NHibernate.Engine;
+using DtoLayer.DtosEntities;
 
 namespace DataAccessLayer.Entities
 {
@@ -45,6 +46,12 @@ namespace DataAccessLayer.Entities
             ContentType = new ContentType();
             ArticleStatus = new ArticleStatus();
             Playlists = new List<Playlist>();
+        }
+
+        public Article(ArticleDto articleDto)
+        {
+            Id = articleDto.Id;
+
         }
     }
 }

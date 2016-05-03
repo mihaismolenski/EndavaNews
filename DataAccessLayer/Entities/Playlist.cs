@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DtoLayer.DtosEntities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,13 @@ namespace DataAccessLayer.Entities
         public Playlist()
         {
             Articles = new List<Article>();
+        }
+
+        public Playlist(PlaylistDto playlistDto)
+        {
+            Id = playlistDto.Id;
+            Name = playlistDto.Name;
+            Articles = playlistDto.Articles;
         }
     }
 }

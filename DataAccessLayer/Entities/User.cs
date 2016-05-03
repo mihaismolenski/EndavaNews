@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DtoLayer.DtosEntities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,6 +21,13 @@ namespace DataAccessLayer.Entities
         {
             Articles = new List<Article>();
             UserCategory = new UserCategory();
+        }
+        public User(UserDto userDto)
+        {
+            Id = userDto.Id;
+            Name = userDto.Name;
+            Articles = userDto.Articles;
+            UserCategory = userDto.UserCategory;
         }
     }
 }

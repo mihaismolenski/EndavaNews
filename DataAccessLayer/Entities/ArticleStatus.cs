@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DtoLayer.DtosEntities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,13 @@ namespace DataAccessLayer.Entities
         public ArticleStatus()
         {
             Articles = new List<Article>();
+        }
+
+        public ArticleStatus(ArticleStatusDto articleStatusDto)
+        {
+            Id = articleStatusDto.Id;
+            Name = articleStatusDto.Name;
+            Articles = articleStatusDto.Articles;
         }
     }
 }
