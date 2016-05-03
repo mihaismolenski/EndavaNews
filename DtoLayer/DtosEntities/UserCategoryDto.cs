@@ -8,5 +8,15 @@ namespace DtoLayer.DtosEntities
 {
    public class UserCategoryDto
     {
+        public virtual int Id { get; set; }
+
+        public virtual string Name { get; set; }
+
+        public virtual IList<UserDto> Users { get; set; }
+
+        public UserCategoryDto()
+        {
+            Users = new List<UserDto>();
+        }
     }
 }

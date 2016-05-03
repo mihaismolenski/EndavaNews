@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DtoLayer.DtosEntities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,6 +18,13 @@ namespace DataAccessLayer.Entities
         public ContentType()
         {
             Articles = new List<Article>();
-        } 
+        }
+
+        public ContentType(ContentTypeDto contentTypeDto)
+        {
+            Id = contentTypeDto.Id;
+            Name = contentTypeDto.Name;
+            Articles = contentTypeDto.Articles;
+        }
     }
 }
