@@ -22,3 +22,15 @@ D:\Proiect\EndavaNews\EndavaNews\DataAccessLayer\bin\Debug\NHibernate.xml
 D:\Proiect\EndavaNews\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 D:\Proiect\EndavaNews\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\Proiect\EndavaNews\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\FluentNHibernate.dll
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\Iesi.Collections.dll
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\NHibernate.dll
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\FluentNHibernate.pdb
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\FluentNHibernate.xml
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\Iesi.Collections.xml
+D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\NHibernate.xml
+D:\EndavaWork\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\EndavaWork\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\EndavaWork\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

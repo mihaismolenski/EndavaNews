@@ -9,13 +9,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "Busin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{EDB7102A-AA18-49D2-B382-3405078AE398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayerUnitTest", "DataAccessLayerUnitTest\DataAccessLayerUnitTest.csproj", "{815EA95F-80ED-4BC3-A2D2-C7A78D9C5BD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer.UnitTest", "DataAccessLayerUnitTest\DataAccessLayer.UnitTest.csproj", "{815EA95F-80ED-4BC3-A2D2-C7A78D9C5BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayerUnitTest", "BusinessLogicLayerUnitTest\BusinessLogicLayerUnitTest.csproj", "{D73482BA-3C0F-457B-9D9F-E2D4883E664D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer.UnitTest", "BusinessLogicLayerUnitTest\BusinessLogicLayer.UnitTest.csproj", "{D73482BA-3C0F-457B-9D9F-E2D4883E664D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayerUnitTest", "PresentationLayerUnitTest\PresentationLayerUnitTest.csproj", "{BA4D8D6B-8044-4C2B-8E51-5F9BE355CFDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer.UnitTest", "PresentationLayerUnitTest\PresentationLayer.UnitTest.csproj", "{BA4D8D6B-8044-4C2B-8E51-5F9BE355CFDC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testdb", "testdb\testdb.csproj", "{02E34427-0958-48E6-9421-13573B4C25EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesLayer", "ServiceLayer\ServicesLayer.csproj", "{1264FB69-A145-4A0E-9FCC-278AA82E9AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesLayer.UnitTest", "ServicesLayer.UnitTest\ServicesLayer.UnitTest.csproj", "{4B15AF87-3A62-4A9A-A117-533ED64B990F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtoLayer", "DtoLayer\DtoLayer.csproj", "{9082ED80-760C-44FB-95B4-8FEEA24C9316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DtoLayer.UnitTest", "DtoLayer.UnitTest\DtoLayer.UnitTest.csproj", "{3127955E-CEA8-475D-A21C-14D391DD828F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{02E34427-0958-48E6-9421-13573B4C25EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02E34427-0958-48E6-9421-13573B4C25EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02E34427-0958-48E6-9421-13573B4C25EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1264FB69-A145-4A0E-9FCC-278AA82E9AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1264FB69-A145-4A0E-9FCC-278AA82E9AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1264FB69-A145-4A0E-9FCC-278AA82E9AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1264FB69-A145-4A0E-9FCC-278AA82E9AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B15AF87-3A62-4A9A-A117-533ED64B990F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B15AF87-3A62-4A9A-A117-533ED64B990F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B15AF87-3A62-4A9A-A117-533ED64B990F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B15AF87-3A62-4A9A-A117-533ED64B990F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9082ED80-760C-44FB-95B4-8FEEA24C9316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9082ED80-760C-44FB-95B4-8FEEA24C9316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9082ED80-760C-44FB-95B4-8FEEA24C9316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9082ED80-760C-44FB-95B4-8FEEA24C9316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3127955E-CEA8-475D-A21C-14D391DD828F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3127955E-CEA8-475D-A21C-14D391DD828F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3127955E-CEA8-475D-A21C-14D391DD828F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3127955E-CEA8-475D-A21C-14D391DD828F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

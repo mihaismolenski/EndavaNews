@@ -78,9 +78,7 @@ namespace testdb
             db.Update(playlist);
 
             
-            //Comentariu
-            //Cristian
-            //Hai odata
+         
         }
     }
 }

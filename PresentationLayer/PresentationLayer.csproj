@@ -284,9 +284,9 @@
       <Project>{dc25d2bf-81ab-4806-928a-e538b6b8467d}</Project>
       <Name>BusinessLogicLayer</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
-      <Project>{7ddc3e12-9c59-4a0b-922a-c550aa3782c2}</Project>
-      <Name>DataAccessLayer</Name>
+    <ProjectReference Include="..\DtoLayer\DtoLayer.csproj">
+      <Project>{9082ed80-760c-44fb-95b4-8feea24c9316}</Project>
+      <Name>DtoLayer</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

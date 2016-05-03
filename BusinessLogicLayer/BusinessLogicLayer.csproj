@@ -47,6 +47,10 @@
       <Project>{7ddc3e12-9c59-4a0b-922a-c550aa3782c2}</Project>
       <Name>DataAccessLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\DtoLayer\DtoLayer.csproj">
+      <Project>{9082ed80-760c-44fb-95b4-8feea24c9316}</Project>
+      <Name>DtoLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
