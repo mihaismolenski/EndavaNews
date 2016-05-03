@@ -14,7 +14,7 @@ namespace DataAccessLayer
     public static class NHibernateConfig
     {
         private const string ConnectionString =
-            @"Data Source=EN60379; Initial Catalog=ProiectGraduates; Integrated Security=true";
+            @"Data Source=EN61039; Initial Catalog=ProiectGraduates; Integrated Security=true";
 
         private static ISession _session;
         private static ISessionFactory _sessionFactory;
