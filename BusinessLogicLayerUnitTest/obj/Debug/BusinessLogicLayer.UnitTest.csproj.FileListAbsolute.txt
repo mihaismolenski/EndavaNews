@@ -1,0 +1,8 @@
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayerUnitTest.dll
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayerUnitTest.pdb
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayer.dll
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\bin\Debug\BusinessLogicLayer.pdb
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\obj\Debug\BusinessLogicLayer.UnitTest.csprojResolveAssemblyReference.cache
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\obj\Debug\BusinessLogicLayerUnitTest.dll
+D:\Proiect\EndavaNews\EndavaNews\BusinessLogicLayerUnitTest\obj\Debug\BusinessLogicLayerUnitTest.pdb

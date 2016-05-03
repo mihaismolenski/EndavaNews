@@ -1,0 +1,15 @@
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayerUnitTest.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayerUnitTest.pdb
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayer.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\Iesi.Collections.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\NHibernate.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\DataAccessLayer.pdb
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.pdb
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\FluentNHibernate.xml
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\Iesi.Collections.xml
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\bin\Debug\NHibernate.xml
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\obj\Debug\DataAccessLayer.UnitTest.csprojResolveAssemblyReference.cache
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayerUnitTest\obj\Debug\DataAccessLayerUnitTest.pdb

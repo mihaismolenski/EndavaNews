@@ -34,3 +34,5 @@ D:\EndavaWork\EndavaNews\DataAccessLayer\bin\Debug\NHibernate.xml
 D:\EndavaWork\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 D:\EndavaWork\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 D:\EndavaWork\EndavaNews\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayer\bin\Debug\DtoLayer.dll
+D:\Proiect\EndavaNews\EndavaNews\DataAccessLayer\bin\Debug\DtoLayer.pdb

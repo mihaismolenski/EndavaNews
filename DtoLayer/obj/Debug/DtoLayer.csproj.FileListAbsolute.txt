@@ -1,0 +1,5 @@
+D:\Proiect\EndavaNews\EndavaNews\DtoLayer\bin\Debug\DtoLayer.dll
+D:\Proiect\EndavaNews\EndavaNews\DtoLayer\bin\Debug\DtoLayer.pdb
+D:\Proiect\EndavaNews\EndavaNews\DtoLayer\obj\Debug\DtoLayer.csprojResolveAssemblyReference.cache
+D:\Proiect\EndavaNews\EndavaNews\DtoLayer\obj\Debug\DtoLayer.dll
+D:\Proiect\EndavaNews\EndavaNews\DtoLayer\obj\Debug\DtoLayer.pdb

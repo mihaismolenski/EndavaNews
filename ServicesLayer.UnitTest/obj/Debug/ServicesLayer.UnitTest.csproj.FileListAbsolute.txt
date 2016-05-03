@@ -1,0 +1,6 @@
+D:\Proiect\EndavaNews\EndavaNews\ServicesLayer.UnitTest\bin\Debug\ServicesLayer.UnitTest.dll
+D:\Proiect\EndavaNews\EndavaNews\ServicesLayer.UnitTest\bin\Debug\ServicesLayer.UnitTest.pdb
+D:\Proiect\EndavaNews\EndavaNews\ServicesLayer.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Proiect\EndavaNews\EndavaNews\ServicesLayer.UnitTest\obj\Debug\ServicesLayer.UnitTest.csprojResolveAssemblyReference.cache
+D:\Proiect\EndavaNews\EndavaNews\ServicesLayer.UnitTest\obj\Debug\ServicesLayer.UnitTest.dll
+D:\Proiect\EndavaNews\EndavaNews\ServicesLayer.UnitTest\obj\Debug\ServicesLayer.UnitTest.pdb
